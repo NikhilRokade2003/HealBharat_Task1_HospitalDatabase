@@ -76,7 +76,8 @@ All queries are tested with JOINs and aggregate functions and are included in `q
 
 ## 🔍 ER Diagram
 
-![alt text](er_diagram.png)
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/87ef3a76-8fe6-422b-83ca-b7e407eaa2b8" />
+
 ---
 
 ## 🙌 Contribution to Heal Bharat
